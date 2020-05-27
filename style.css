@@ -4,9 +4,9 @@ html {
 	background-color: #545454;
 }
 
-body {
+.main {
 	background-color: #40BAD2;
-	border: 1px solid #40BAD2;
+	border: 2px solid #40BAD2;
 	border-radius: 5px;
 	font-family: "Corbel", "Open Sans", sans-serif;
 	margin-left: auto;
